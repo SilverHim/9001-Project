@@ -1,8 +1,8 @@
 # Piggy Bank 
-Piggy Bank is a command-line accounting tool designed to help you manage your income and expenses and view your financial status.
+<p>Piggy Bank is a command-line accounting tool designed to help you manage your income and expenses and view your financial status.<p>
 
-1. Startup & Account Selection
-After starting the program, you first need to select or create an account.
+<p>1. Startup & Account Selection<p>
+<p>After starting the program, you first need to select or create an account.<p>
 
 HELP
 Displays help information for this stage.
