@@ -1,4 +1,4 @@
-Piggy Bank 
+# Piggy Bank 
 Piggy Bank is a command-line accounting tool designed to help you manage your income and expenses and view your financial status.
 
 1. Startup & Account Selection
